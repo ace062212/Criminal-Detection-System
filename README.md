@@ -1,14 +1,23 @@
 # 🎯 Criminal Detection System
 실시간 얼굴 인식 기술을 활용한 범죄자 식별 시스템
 
+## 📥 필요한 파일 다운로드
+프로젝트 실행을 위해 다음 파일들을 다운로드 받아 지정된 경로에 위치시켜주세요.
+
+### 모델 파일
+다음 파일들을 `models/` 폴더에 위치시켜주세요:
+- [shape_predictor_68_face_landmarks.dat](https://drive.google.com/file/d/19agdlRGb6GsXGrbq1mx4RaZVDMFNK-K6/view?usp=sharing)
+- [dlib_face_recognition_resnet_model_v1.dat](https://drive.google.com/file/d/1JaLDwSH7SIxeh38lbFsedfAK18lfuScb/view?usp=sharing)
+- [haarcascade_frontalface_alt2.xml](https://drive.google.com/file/d/1JVs1GwNwELJ5dKX6cBEP-B8E73TLxBtl/view?usp=sharing)
+  
 ## 🎥 시연 영상 & 발표 자료
 ### 시연 영상
 실제 시스템 작동 모습을 담은 시연 영상입니다. 주요 기능인 실시간 얼굴 인식, 수배 포스터 생성 등의 동작을 확인하실 수 있습니다.
-- [시스템 시연 영상](demo/videos/시연영상.mov)
+- [시스템 시연 영상]([demo/videos/시연영상.mov](https://drive.google.com/file/d/1UXGS8OSavsTVcvMJg7qspF1bVsVybb6Z/view?usp=sharing))
 
 ### 발표 자료
 프로젝트의 상세 내용을 담은 발표 자료입니다.
-- [프로젝트 발표 자료](docs/presentation/발표자료.pdf)
+- [프로젝트 발표 자료]([docs/presentation/발표자료.pdf](https://drive.google.com/file/d/1gnocqu_llsW5pDz2kTO1x6A8zEKrwPRN/view?usp=sharing))
 
 
 ## 📌 프로젝트 소개
