@@ -1,0 +1,4 @@
+# 큰 파일들 제외
+models/*.dat
+demo/videos/*.mov
+   
