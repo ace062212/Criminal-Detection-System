@@ -13,11 +13,11 @@
 ## 🎥 시연 영상 & 발표 자료
 ### 시연 영상
 실제 시스템 작동 모습을 담은 시연 영상입니다. 주요 기능인 실시간 얼굴 인식, 수배 포스터 생성 등의 동작을 확인하실 수 있습니다.
-- [시스템 시연 영상]([demo/videos/시연영상.mov](https://drive.google.com/file/d/1UXGS8OSavsTVcvMJg7qspF1bVsVybb6Z/view?usp=sharing))
+- [시스템 시연 영상](https://drive.google.com/file/d/1UXGS8OSavsTVcvMJg7qspF1bVsVybb6Z/view?usp=sharing)
 
 ### 발표 자료
 프로젝트의 상세 내용을 담은 발표 자료입니다.
-- [프로젝트 발표 자료]([docs/presentation/발표자료.pdf](https://drive.google.com/file/d/1gnocqu_llsW5pDz2kTO1x6A8zEKrwPRN/view?usp=sharing))
+- [프로젝트 발표 자료](https://drive.google.com/file/d/1gnocqu_llsW5pDz2kTO1x6A8zEKrwPRN/view?usp=sharing)
 
 
 ## 📌 프로젝트 소개
