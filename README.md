@@ -1,5 +1,16 @@
 # 🎯 Criminal Detection System
 실시간 얼굴 인식 기술을 활용한 범죄자 식별 시스템
+# 🎯 Criminal Detection System
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.7.0-green?style=for-the-badge&logo=opencv&logoColor=white)
+![dlib](https://img.shields.io/badge/dlib-19.24.0-red?style=for-the-badge)
+![Accuracy](https://img.shields.io/badge/Accuracy-95%25+-success?style=for-the-badge)
+![FPS](https://img.shields.io/badge/FPS-30+-orange?style=for-the-badge)
+
+[![GitHub stars](https://img.shields.io/github/stars/ace062212/criminal-detection-system?style=social)](https://github.com/ace062212/criminal-detection-system/stargazers)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ace062212/criminal-detection-system)
+![GitHub last commit](https://img.shields.io/github/last-commit/ace062212/criminal-detection-system)
 
 ## 📌 프로젝트 소개
 본 프로젝트는 OpenCV와 dlib를 활용하여 실시간으로 얼굴을 인식하고, 범죄자 식별에 활용할 수 있는 시스템을 개발한 것입니다. 실시간 영상에서 얼굴을 감지하고, 특징점을 추출하여 수배 시스템에 활용할 수 있도록 구현했습니다.
