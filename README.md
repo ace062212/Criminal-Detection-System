@@ -1,5 +1,5 @@
 # 🎯 Criminal Detection System
-**2023 영상처리 프로젝트 - 복학 후 다시 느낀 개발의 즐거움**
+**2023 영상처리 프로젝트 - 복학 후 느낀 즐거움**
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.7.0-green?style=for-the-badge&logo=opencv&logoColor=white)
